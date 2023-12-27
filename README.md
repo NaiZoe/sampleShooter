@@ -1,2 +1,3 @@
 # sampleShooter
-Sample Shooter Game created with UE5 and C++
+Sample Shooter Game created with UE5 and blue print class
+
